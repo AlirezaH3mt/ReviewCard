@@ -16,5 +16,5 @@ local.properties
 
 # Project exclude paths
 /.kotlin/
-/app/
+/app/src/
 /gradle/
